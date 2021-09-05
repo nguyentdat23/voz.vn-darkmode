@@ -1,4 +1,6 @@
 # voz.vn-darkmode
-Dark mode for Voz.vn forums using Stylus extension
-* [Download from Chrome Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
-* [Install this userstyle to Stylus to apply dark mode](https://userstyles.world/api/style/984.user.css)
+##About this userstyle
+This is dark mode style for voz.vn forum using Stylus extension.
+##Installation
+1. <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en" target="_blank">Install Stylus extension to Chromium browser.</a>
+2. <a href="https://userstyles.world/api/style/984.user.css" target="_blank">Install this style to Stylus to apply dark mode theme.</a>
