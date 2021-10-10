@@ -122,6 +122,18 @@
   .username {
     color: #abdaff;
   }
+  a.fauxBlockLink-blockLink {
+    color: #abdaff;
+  }
+
+  a[target="_blank"] {
+    color: #abdaff;
+  }
+
+  li.is-selected {
+    background: #383c42 !important;
+  }
+
   .blocks-header.blocks-header--strong {
     color: #e6e7ea;
   }
